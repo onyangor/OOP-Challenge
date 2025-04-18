@@ -36,6 +36,10 @@ Create a class called `Pet` with the following:
 4. Submit a GitHub repo or a zipped folder with your code and a screenshot of the output.
 
 ---
+my output
+
+![Alt text](relative/path/to/image.png)
+
 
 ## ✅ Sample Output
 
@@ -62,3 +66,6 @@ Deadline: [Set your date]
 Submission format: clone / fork this repo
 
 Bonus points for creativity (custom actions, emojis, pet types, etc.)
+
+
+
